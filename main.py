@@ -100,3 +100,17 @@
 #         break
 
 #11
+# a = [i for i in input().split()]
+# for i in range(1, len(a), 2):
+#     a[i-1], a[i] = a[i], a[i-1]
+# print(a)
+
+#12
+# a = [i for i in input().split()]
+# b = []
+# for a in a:
+#     if a not in b:
+#         b.append(a)
+# print(b)
+
+#13
