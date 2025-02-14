@@ -21,8 +21,9 @@ print("9:", len(inStr))
 #2
 inStr = input()
 l = len(inStr) + 1
-print (inStr[0:l//2])
 print (inStr[l//2:])
+print (inStr[0:l//2])
+
 
 #3
 inStr = input()
